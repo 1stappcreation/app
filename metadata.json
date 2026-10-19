@@ -1,0 +1,6 @@
+{
+  "name": "PromptVerse - Daily AI Prompts Android App",
+  "description": "Daily AI Prompts and Creation Studio Android application built with Kotlin, Jetpack Compose, Material 3, and Firebase. Features daily prompt drops, multi-turn Gemini chatbot, Nano Banana image creation and editing, Veo 3 video generation, and Google Search Grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
